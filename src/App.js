@@ -4,8 +4,9 @@ import MetContainer from './Container/MetContainer';
 
 function App() {
   return (
-    <><p>Hello world!</p>
-    < MetContainer/></>
+    <div id="main-page">
+    <MetContainer/>
+    </div>
   );
 }
 
